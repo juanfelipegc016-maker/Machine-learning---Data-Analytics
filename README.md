@@ -53,7 +53,4 @@ Repositorio con dos proyectos aplicados de machine learning, desarrollados en Go
 
 Python · Pandas · NumPy · Scikit-learn (Random Forest, Decision Tree, pipelines, ColumnTransformer) · Matplotlib · Seaborn · Google Colab · Power BI
 
-## 👤 Autor
-
-Juan Felipe González Castro — Estudiante de Ingeniería de Sistemas, Universidad Libre
 [LinkedIn](https://linkedin.com/in/juan-felipe-gonzalez-castro) · [GitHub](https://github.com/juanfelipegc016-maker)
