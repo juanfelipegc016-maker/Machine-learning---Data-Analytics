@@ -1,6 +1,6 @@
 # Proyectos de Machine Learning — Curso de Inteligencia Artificial
 
-Repositorio con dos proyectos aplicados de machine learning, desarrollados en Google Colab como parte del curso de Inteligencia Artificial / Machine Learning de Ingeniería de Sistemas (Universidad Libre). Ambos cubren el ciclo completo de un proyecto de datos: carga y limpieza, análisis exploratorio, preparación de variables, modelado y evaluación.
+Repositorio con dos proyectos aplicados de machine learning, desarrollados en Google Colab. Ambos cubren el ciclo completo de un proyecto de datos: carga y limpieza, análisis exploratorio, preparación de variables, modelado y evaluación.
 
 ## 📁 Contenido
 
